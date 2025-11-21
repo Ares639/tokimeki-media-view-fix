@@ -10,7 +10,7 @@ Blueskyクライアント「Tokimeki」における、メディアビューの�
 
 UserScriptのインストールは、**GreasyFork**から行うのが**最も簡単**です。
 
-**[✨ GreasyForkでインストールする ✨]([https://greasyfork.org/ja/scripts/550775)**
+**[✨ GreasyForkでインストールする ✨](https://greasyfork.org/ja/scripts/550775)**
 
 ### 拡張機能の準備
 
